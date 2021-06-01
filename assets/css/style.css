@@ -1,0 +1,11 @@
+.btn {
+  margin-top: 3rem;
+  background: #8261ee;
+  padding: 15px 32px;
+  border: none;
+  color: white;
+}
+
+.btn:hover {
+  background: #ff589e;
+}
